@@ -1,0 +1,89 @@
+
+.container{
+    background-color:aliceblue;
+}
+#slogo{
+    float: left;
+    margin: 10px 10px 10px 50px;
+}
+#hungry
+{
+    float: left;
+    margin: -300px 1px 2px 150px;
+}
+#hungry h1{
+    color: orange
+}
+#text{
+    font-family:cursive;
+     float: left;
+    margin: -250px 1px 2px 110px;
+    
+}
+
+
+#topnav a:hover {
+    
+  background-color:aliceblue;
+  color: black;
+}
+
+#topnav a.active {
+  background-color: orange;
+  color: white;
+}
+
+#topnav input[type=text] {
+  float: left;
+  padding: 10.5px;
+  border:1px black solid ;
+margin: 1px 1px 1px 1px;
+  font-size: 17px;
+}
+#topnav {
+    margin: -200px 2px 1px 120px;
+    
+  overflow: hidden;
+  background-color:aliceblue;
+}
+
+#topnav a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 12px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.box-2{
+    float:right;
+    margin: 00px 1px 100px 100px;
+
+}
+
+#banner{    margin: -95px 0px 00px 00px;
+
+}
+div {
+    float: left;
+}
+.button {
+    
+
+  background-color: orange; 
+    border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+      
+  font-size: 16px;
+}
+.button2 {
+     margin: -400px 5px 1px 300px;background-color: #008CBA;float: left;} /* Blue */
+.button3 { margin: -400px 50px 10px 450px;background-color: orange;float: left;}
